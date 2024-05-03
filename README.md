@@ -2,5 +2,5 @@
 
 <ul>
     <li>Primera subida de la app</li>
-    <li>Desarrollando la interfaz de usuario</li>
+    <li>Terminada la interfaz de usuario</li>
 </ul>        

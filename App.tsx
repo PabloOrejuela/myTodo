@@ -73,7 +73,7 @@ const styles = StyleSheet.create({
     flex: 1,
     width: "100%",
     padding: 20,
-    marginTop: 10
+    marginTop: 20
   },
   title:{
     fontSize: 20,
@@ -124,7 +124,7 @@ const styles = StyleSheet.create({
     width: Dimensions.get('screen').width * 0.25
   },
   scrollContainer: {
-
+    marginTop: 20
   },
   itemContainer:{
     flexDirection: "row",
